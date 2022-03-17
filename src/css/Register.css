@@ -1,0 +1,13 @@
+.register_container {
+  width: 30%;
+  height: 95%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.field_container {
+  width: 70%;
+  margin-top: 0px;
+}
